@@ -4,7 +4,7 @@
 
 I'm byteboy, A Web development engineer, I use Java
 
-- 🔭 I’m currently working on Wuhan
+- 🔭 I’m currently working on Shenzhen
 - 📫 How to reach me: xhhsc@outlook.com
 - ⚡ Fun fact: I love use Spring Framework
-- 🏠 Blog: [forecho's Blog](https://blog.byteboy.cn/)
+- 🏠 Blog: [Blog](https://blog.byteboy.cn/)
